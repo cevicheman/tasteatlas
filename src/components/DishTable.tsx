@@ -59,9 +59,9 @@ export default function DishTable( { data } : { data: Dish[] } ) {
             <TableCell align='center'>Plato</TableCell>
             
             {/* PENDIENTE: Cabeceras de las columnas  */}
-            <TableCell align='center'>Pais</TableCell>
-
             <TableCell align='center'>Raiting</TableCell>
+
+            <TableCell align='center'>Pais</TableCell>
 
             <TableCell align='center'>Restaurantes iconicos</TableCell>
 
